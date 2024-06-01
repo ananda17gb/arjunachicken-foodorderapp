@@ -4,7 +4,7 @@ Our first project using Flutter and Google Sheets API made specifically only for
 
 ## How This App Works
 
-This app works in line with Google Sheets. So, any changes in Google Sheets will be implemented into the application and vice versa.
+The app works inline with the Google Sheets. So, any changes in the Google Sheets will be reflected into the app and vice versa.
 
 ## Installation
 
@@ -12,13 +12,15 @@ Because our app uses Google Sheets API you need to connect the app to it. Can be
 
 
 Clone this project: \
-`git clone https://github.com/ananda17gb/ArjunasChicken-FoodOrderApp.git`
+```
+git clone https://github.com/ananda17gb/ArjunasChicken-FoodOrderApp.git
+```
 
 Get the dependency: \
-`flutter pub get`
+```flutter pub get```
 
 Run the project:\
-`flutter run`  
+```flutter run```  
 
 ## Screenshoot
 ![Screenshot 2024-06-01 174753](https://github.com/ananda17gb/arjunachicken-foodorderapp/assets/79387612/22f21f1c-75bb-425e-bb97-9a0628a83611)
