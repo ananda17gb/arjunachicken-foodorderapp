@@ -17,10 +17,14 @@ git clone https://github.com/ananda17gb/ArjunasChicken-FoodOrderApp.git
 ```
 
 Get the dependency: \
-```flutter pub get```
+```
+flutter pub get
+```
 
 Run the project:\
-```flutter run```  
+```
+flutter run
+```  
 
 ## Screenshoot
 ![Screenshot 2024-06-01 174753](https://github.com/ananda17gb/arjunachicken-foodorderapp/assets/79387612/22f21f1c-75bb-425e-bb97-9a0628a83611)
