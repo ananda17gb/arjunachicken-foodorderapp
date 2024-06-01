@@ -11,17 +11,17 @@ The app works inline with the Google Sheets. So, any changes in the Google Sheet
 Because our app uses Google Sheets API you need to connect the app to it. Can be seen [here](https://www.youtube.com/watch?v=ZSSERiYLv3c). Credit to [Mitch Koko](https://www.youtube.com/@createdbykoko) for the tutorial :blush:
 
 
-Clone this project: \
+Clone this project:
 ```
 git clone https://github.com/ananda17gb/ArjunasChicken-FoodOrderApp.git
 ```
 
-Get the dependency: \
+Get the dependency:
 ```
 flutter pub get
 ```
 
-Run the project:\
+Run the project:
 ```
 flutter run
 ```  
